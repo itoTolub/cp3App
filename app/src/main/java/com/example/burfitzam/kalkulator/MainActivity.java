@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button buttonClear;
 //fitr0 firmansyah
     //desa deket wetan
+    //switch to development
+    //sepak bola
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
