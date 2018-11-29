@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button buttonTambah,buttonKurang,buttonKali,buttonBagi,buttonSamaDengan;
     Button buttonClear;
 //fitr0 firmansyah
+    //desa deket wetan
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
