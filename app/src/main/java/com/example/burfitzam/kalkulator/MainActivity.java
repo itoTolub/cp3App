@@ -16,8 +16,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button button0,button1,button2,button3,button4,button5,button6,button7,button8,button9;
     Button buttonTambah,buttonKurang,buttonKali,buttonBagi,buttonSamaDengan;
     Button buttonClear;
-//fitr0 firmansyah
-    //desa deket wetan
+//fitr0 firmansyah commit kedua
+    //desa deket wetan commit ketiga
+    //branch development
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
